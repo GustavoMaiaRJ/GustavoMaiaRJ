@@ -1,16 +1,15 @@
 
 
-<h1 align="center">Hi there, I'm Gustavo Maia!</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 ---
 
 ### About Me
 
 - I'm **Gustavo Maia de Araujo** 
-- Currently studying **Control and Automation Engineering** at **UFRJ** (Federal University of Rio de Janeiro)  
-- Proficient in **C**, **C++**, and **Python**  
-- Passionate about technology, automation, algorithms, and software development  
-- Always eager to learn and take on new challenges
+- 🎮 Currently studying **Control and Automation Engineering** at **UFRJ** (Federal University of Rio de Janeiro)  
+- 💻 Passionate about technology, automation, algorithms, and software development  
+- 💡 Always eager to learn and take on new challenges
 
 ---
 
