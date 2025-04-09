@@ -6,7 +6,7 @@
 
 ### About Me
 
-- I'm **Gustavo Maia de Araujo**, 19 years old  
+- I'm **Gustavo Maia de Araujo** 
 - Currently studying **Control and Automation Engineering** at **UFRJ** (Federal University of Rio de Janeiro)  
 - Proficient in **C**, **C++**, and **Python**  
 - Passionate about technology, automation, algorithms, and software development  
